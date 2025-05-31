@@ -19,7 +19,6 @@
 
 ### 🛡️ Actualmente aprendiendo
 - Fundamentos de ciberseguridad y resolución de CTFs con PicoCTF, TryHackMe y Hack The Box. 
-- Excel para gestión de información y riesgos
 - Buenas prácticas de desarrollo y control de versiones
 
 ---
