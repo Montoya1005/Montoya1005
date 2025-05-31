@@ -1,9 +1,8 @@
 ### 👋 ¡Hola! Soy Jairo Montoya
 
-🎓 Estudiante de [tu carrera] en la PUCP  
-🔐 Interesado en Ciberseguridad, GRC e Inteligencia Artificial  
-🌱 Aprendiendo actualmente: Excel, CTFs y proyectos en Python  
-📫 Cómo contactarme: [tu correo o LinkedIn]
+🎓 Estudiante de Ingeniería Informática en la Pontificia Universidad Católica del Perú (PUCP)  
+🐧 Me apasionan Linux, la gestión de riesgos y la programación como herramienta para resolver problemas reales  
+
 
 > "Siempre estoy buscando aprender algo nuevo."
 
