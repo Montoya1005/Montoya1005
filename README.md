@@ -1,10 +1,10 @@
 # 👋 ¡Hola! Soy Jairo Montoya
 
 ### Sobre mí
-🎓 Estudiante de Ingeniería Informática en la Pontificia Universidad Católica del Perú (PUCP)  
-🔐 Interesado en Ciberseguridad, especialmente en áreas como la gestión de riesgos y GRC  
-🐧 Me apasiona Linux, y uso la programación como una herramienta para resolver problemas reales  
-📘 Siempre estoy buscando aprender algo nuevo, con enfoque en tecnología y seguridad
+- 🎓 Estudiante de Ingeniería Informática en la Pontificia Universidad Católica del Perú (PUCP)  
+- 🔐 Interesado en Ciberseguridad, especialmente en áreas como la gestión de riesgos y GRC  
+- 🐧 Me apasiona Linux, y uso la programación como una herramienta para resolver problemas reales  
+- 📘 Siempre estoy buscando aprender algo nuevo, con enfoque en tecnología y seguridad
 
 ---
 
