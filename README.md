@@ -2,7 +2,7 @@
 
 ### Sobre mí
 - 🎓 Estudiante de Ingeniería Informática en la Pontificia Universidad Católica del Perú (PUCP)  
-- 🔐 Interesado en Ciberseguridad, especialmente en áreas como la gestión de riesgos y GRC  
+- 🔐 Apasionado por la ciberseguridad y por entender cómo proteger sistemas y datos en el mundo digital  
 - 🐧 Me apasiona Linux, y uso la programación como una herramienta para resolver problemas reales  
 - 📘 Siempre estoy buscando aprender algo nuevo, con enfoque en tecnología y seguridad
 
@@ -27,7 +27,7 @@
 ### 📫 Contacto
 
 - ✉️ jairo.montoya@pucp.edu.pe
-- 🔗 https://www.linkedin.com/in/jairo-martin-montoya-anco-1005jy/
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jairo-martin-montoya-anco-1005jy/)
 
 ---
 
